@@ -1,8 +1,8 @@
 # Student Registration System
 
 ## Student Info
-- *Name:*Chinenyeze Blessing Chimeremeze
-- *Matric Number:* 23\CSC\302
+- *Name:*Ekpenyong Etim Effiong
+- *Matric Number:* 23\CSC\269
 - *Course Code:* CSC 282 
 
 ## Assignment Title
@@ -64,3 +64,4 @@ This project is a simple PHP and MySQL web application for registering students.
 
 ### Delete Confirmation
 ![Delete Confirmation](images/delete.png)
+
